@@ -1,0 +1,21 @@
+body {
+    background-color: #00470a;
+    color: #cfcfcf;
+    background-image: url("thrash.png");
+    background-repeat: no-repeat;
+    background-size: 2000px 1080px;
+    background-attachment: fixed;
+    font-style: oblique;
+}
+
+a {
+    color: #00ff6a;
+
+}
+
+h1 {
+    font-family: arial;
+    font-size: 45px;
+    color: #1eff00
+
+}
